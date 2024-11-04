@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, HTML, SQL, CSS, PhotoShop, XML, TeamWork, Unity**
+- 💬 Ask me about **Java, HTML, SQL, CSS, Adobe PhotoShop, XML, TeamWork, Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
