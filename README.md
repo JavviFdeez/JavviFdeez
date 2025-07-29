@@ -103,6 +103,7 @@ A modern, user-friendly tool for creating customizable resumes. It offers variou
 ### **Tools**
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/Figma-%23324DFF.svg?style=for-the-badge&logo=figma&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/Photoshop-%23AD1B2E.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="30" width="120"/>
