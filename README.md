@@ -23,9 +23,23 @@
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javvi&show_icons=true&hide_title=true&theme=radical)
+### 📈 My GitHub Stats
+
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javvi&show_icons=true&theme=radical)
+
+### 🌍 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javvi&layout=compact&theme=radical)
+
+### 🔥 GitHub Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javvi&theme=radical)
+
+### 🏆 GitHub Trophy
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=javvi&theme=onedark&no-frame=true&title=Commits,PullRequest,Repositories,Stars)
 
 ---
 
