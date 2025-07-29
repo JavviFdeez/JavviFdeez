@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 ### 📈 My GitHub Stats
 
@@ -35,11 +35,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavviFdeez&layout=compact&theme=radical)
 
-### 🔥 GitHub Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavviFdeez&theme=radical)
-
-### 🏆 GitHub Trophy
+### 🏆GitHub Trophy
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JavviFdeez&theme=onedark&no-frame=true&title=Commits,PullRequest,Repositories,Stars)
 
