@@ -83,14 +83,14 @@ A modern, user-friendly tool for creating customizable resumes. It offers variou
 
 ### **Languages & Frameworks**
 <p align="left">
-  <img align="center" src="https://img.shields.io/badge/Astro-%23F9C74F.svg?style=for-the-badge&logo=astro&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2328B9B5.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/Ionic-%2331C4E5.svg?style=for-the-badge&logo=ionic&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/JavaScript-%232F76A6.svg?style=for-the-badge&logo=javascript&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2328B9B5.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Astro-%23F9C74F.svg?style=for-the-badge&logo=astro&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="30" width="120"/>
   <img align="center" src="https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=white" height="30" width="120"/>
 </p>
