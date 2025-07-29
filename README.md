@@ -3,7 +3,7 @@
   <h3>I'm a Junior Developer specialized in Multiplatform Application Development. I’ve recently completed the DAM program and am looking for my first job as a developer.</h3>
 </div>
 
-<a href="https://porfolio-javvi.vercel.app/" target="_blank"> <img width="1920" height="1440" alt="Porfolio Javier Fernández Fernández" src="[https://github.com/user-attachments/assets/6d96ef54-bbce-4414-82ec-987e685cadb8](https://github.com/user-attachments/assets/6bf6b292-8b97-457d-9882-64c51a2610f3)" /> </a>
+<a href="https://porfolio-javvi.vercel.app/" target="_blank"> <img width="773" height="457" alt="Porfolio de Javier Fernández Fernández - Desarrollador y Programador Junior" src="https://github.com/user-attachments/assets/bf6b304f-7e62-45c0-99e2-85cda985c841" /></a>
 
 ---
 
