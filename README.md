@@ -49,6 +49,7 @@ June 2025 | Pozoblanco, Córdoba
 - **Portal de Carnes**: Refactored the website with a new framework, restructured the frontend, added translations, and integrated APIs for improved functionality.
 <img width="1920" height="1080" alt="450shots_so" src="https://github.com/user-attachments/assets/ec496870-9575-45c8-a819-c2f6b063a3fb" />
 
+
 - **Portal de Làctia**: Led the migration from **WordPress** to the new framework, implemented the multilingual version, and redesigned the entire frontend for a modern and responsive user experience.
 <img width="1920" height="1080" alt="45shots_so" src="https://github.com/user-attachments/assets/b4636192-3c43-4789-8148-27851be803c5" />
 
