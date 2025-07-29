@@ -7,33 +7,61 @@
 
 ---
 
-## 🚀 About Me
+## Connect with Me
 
-I'm a **Full-Stack Developer** with a strong passion for **multiplatform applications**. I’ve recently completed my **DAM** program, and I’m actively seeking opportunities to apply my skills in real-world projects. I specialize in **Java**, **Angular**, and **Web Development**, focusing on performance, scalability, and creating seamless user experiences.
-
-### 🛠️ Currently Learning:
-- **Java** (Core and Advanced)
-- **AWS** (Cloud Solutions)
-
----
-
-## 💼 Featured Projects
-
-### **🌍 [CV Generator](https://github.com/javvi/CV-Generator)**
-A modern, user-friendly tool for creating customizable resumes. It offers various templates, export options (PDF, Word, etc.), and an intuitive interface. I plan to integrate AI-driven features for personalized recommendations.
-
-### **🚄 [TranslyApp](https://github.com/javvi/TranslyApp)**
-A Progressive Web App (PWA) designed for comparing transport options, including trains, flights, and cruises. It provides real-time pricing, booking, and personalized user experiences. I’m working on improving the UX and adding more features to support global users.
+<p align="left">
+  <a href="https://porfolio-javvi.vercel.app/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-%2300A1E4.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" width="120" />
+  </a>
+  <a href="https://linkedin.com/in/javvifernandez/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:javierfernandez@example.com">
+    <img align="center" src="https://img.shields.io/badge/Email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javvi&show_icons=true&hide_title=true&theme=radical)
 
 ---
 
-## 🛠️ Technologies & Tools
+## Work Experience
+
+#### **COVAP - Digital Development Department**  
+*Prácticas CFGS - Desarrollo de Aplicaciones Multiplataforma*  
+June 2025 | Pozoblanco, Córdoba  
+- **Portal de Carnes**: Refactored the website with a new framework, restructured the frontend, added translations, and integrated APIs for improved functionality.  
+- **Portal de Làctia**: Led the migration from **WordPress** to the new framework, implemented the multilingual version, and redesigned the entire frontend for a modern and responsive user experience.
+
+
+#### **INCOPE**  
+*Prácticas CFGM - Sistemas Microinformáticos y Redes*  
+June 2022 | Pozoblanco, Córdoba   
+- Assisted with IT troubleshooting and infrastructure optimization.
+
+---
+
+## About Me
+
+I'm a **Full-Stack Developer** with a strong passion for **multiplatform applications**. I’ve recently completed my **DAM** program, and I’m actively seeking opportunities to apply my skills in real-world projects. I specialize in **Java**, **Angular**, and **Web Development**, focusing on performance, scalability, and creating seamless user experiences.+
+
+---
+
+## Featured Projects
+
+### **🚄 [TranslyApp](https://github.com/javvi/TranslyApp)**
+A Progressive Web App (PWA) designed for comparing transport options, including trains, flights, and cruises. It provides real-time pricing, booking, and personalized user experiences. I’m working on improving the UX and adding more features to support global users.
+
+### **🌍 [CV Generator](https://github.com/javvi/CV-Generator)**
+A modern, user-friendly tool for creating customizable resumes. It offers various templates, export options (PDF, Word, etc.), and an intuitive interface. I plan to integrate AI-driven features for personalized recommendations.
+
+---
+
+## Technologies & Tools
 
 ### **Languages & Frameworks**
 <p align="left">
@@ -64,30 +92,9 @@ A Progressive Web App (PWA) designed for comparing transport options, including 
 
 ---
 
-## 🌐 Connect with Me
+## Let’s Work Together
 
-<p align="left">
-  <a href="https://linkedin.com/in/javvifernandez/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:javierfernandez@example.com">
-    <img align="center" src="https://img.shields.io/badge/Email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
-  </a>
-</p>
-
----
-
-## 📚 About My Experience
-
-With a background in **DAM (Desarrollo de Aplicaciones Multiplataforma)**, I’ve been building projects with a focus on scalable and high-performance applications. From web development with **Angular** to creating user-friendly mobile experiences with **Unity**, I am always excited about tackling new challenges and exploring innovative solutions.
-
-I’ve contributed to various open-source projects and continue to develop personal ones, such as **CV Generator** and **TranslyApp**, that showcase my skills in full-stack development, UI/UX design, and cloud solutions.
-
----
-
-## 💼 Let’s Work Together
-
-I'm open to new collaborations, freelance opportunities, or full-time positions in the **Full-Stack Development** and **Mobile App Development** domains. If you’d like to discuss how we can collaborate, feel free to reach out via **LinkedIn** or email.
+I'm open to new collaborations, or full-time positions in the **Development** domains. If you’d like to discuss how we can collaborate, feel free to reach out via **LinkedIn** or email.
 
 ---
 
