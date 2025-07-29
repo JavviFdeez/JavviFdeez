@@ -34,6 +34,7 @@ June 2025 | Pozoblanco, Córdoba
 - **Portal de Carnes**: Refactored the website with a new framework, restructured the frontend, added translations, and integrated APIs for improved functionality.
 <img width="1920" height="1080" alt="450shots_so" src="https://github.com/user-attachments/assets/ec496870-9575-45c8-a819-c2f6b063a3fb" />
 ---
+---
 - **Portal de Làctia**: Led the migration from **WordPress** to the new framework, implemented the multilingual version, and redesigned the entire frontend for a modern and responsive user experience.
 <img width="1920" height="1080" alt="45shots_so" src="https://github.com/user-attachments/assets/b4636192-3c43-4789-8148-27851be803c5" />
 
@@ -56,6 +57,7 @@ I'm a **Full-Stack Developer** with a strong passion for **multiplatform applica
 ### **🚄 [TranslyApp](https://github.com/javvi/TranslyApp)**
 A Progressive Web App (PWA) designed for comparing transport options, including trains, flights, and cruises. It provides real-time pricing, booking, and personalized user experiences. I’m working on improving the UX and adding more features to support global users.
 <img width="1920" height="1080" alt="584shots_so" src="https://github.com/user-attachments/assets/ef1bebd7-e898-4832-a525-7be27216c810" />
+---
 ---
 ### **🗒️ [CV Generator](https://github.com/javvi/CV-Generator)**
 A modern, user-friendly tool for creating customizable resumes. It offers various templates, export options (PDF, Word, etc.), and an intuitive interface. I plan to integrate AI-driven features for personalized recommendations.
