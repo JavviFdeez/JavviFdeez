@@ -13,9 +13,11 @@
   <a href="https://porfolio-javvi.vercel.app/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-%2300A1E4.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" width="120" />
   </a>
+  
   <a href="https://linkedin.com/in/javvifernandez/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
+  
   <a href="mailto:javierfernandez@example.com">
     <img align="center" src="https://img.shields.io/badge/Email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
   </a>
@@ -85,7 +87,9 @@ A modern, user-friendly tool for creating customizable resumes. It offers variou
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-%23F9C74F.svg?style=for-the-badge&logo=astro&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2328B9B5.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Ionic](https://img.shields.io/badge/Ionic-%2331C4E5.svg?style=for-the-badge&logo=ionic&logoColor=white)
 </p>
 
 ### **Databases & Cloud**
