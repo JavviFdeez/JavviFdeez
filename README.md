@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm <a href="https://porfolio-javvi.vercel.app/" target="_blank">Javier Fernández Fernández</a></h1>
-  <h3 align="center">I'm a **Junior Developer** specialized in Multiplatform Application Development. I’ve recently completed the DAM program and am looking for my first job as a developer.</h3>
+  <h1>Hi 👋, I'm <a href="https://porfolio-javvi.vercel.app/" target="_blank">Javier Fernández Fernández</a></h1>
+  <h3>I'm a Junior Developer specialized in Multiplatform Application Development. I’ve recently completed the DAM program and am looking for my first job as a developer.</h3>
 </div>
 
 ![GitHub Banner](https://github.com/user-attachments/assets/b33a5997-4615-42a6-b2aa-4baeba86107a)
