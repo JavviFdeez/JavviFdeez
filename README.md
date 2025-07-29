@@ -73,7 +73,7 @@ I'm a **Full-Stack Developer** with a strong passion for **multiplatform applica
 A Progressive Web App (PWA) designed for comparing transport options, including trains, flights, and cruises. It provides real-time pricing, booking, and personalized user experiences. I’m working on improving the UX and adding more features to support global users.
 <img width="1920" height="1080" alt="584shots_so" src="https://github.com/user-attachments/assets/ef1bebd7-e898-4832-a525-7be27216c810" />
 
-### **🌍 [CV Generator](https://github.com/javvi/CV-Generator)**
+### **🗒️ [CV Generator](https://github.com/javvi/CV-Generator)**
 A modern, user-friendly tool for creating customizable resumes. It offers various templates, export options (PDF, Word, etc.), and an intuitive interface. I plan to integrate AI-driven features for personalized recommendations.
 <img width="1920" height="1080" alt="973shots_so" src="https://github.com/user-attachments/assets/3f8e428d-b5de-47c8-ac3d-a927ce2071b7" />
 
