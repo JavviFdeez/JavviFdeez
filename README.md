@@ -27,19 +27,19 @@
 
 ### 📈 My GitHub Stats
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javvi&show_icons=true&theme=radical)
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavviFdeez&show_icons=true&theme=radical)
 
 ### 🌍 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javvi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavviFdeez&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javvi&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavviFdeez&theme=radical)
 
 ### 🏆 GitHub Trophy
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=javvi&theme=onedark&no-frame=true&title=Commits,PullRequest,Repositories,Stars)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JavviFdeez&theme=onedark&no-frame=true&title=Commits,PullRequest,Repositories,Stars)
 
 ---
 
