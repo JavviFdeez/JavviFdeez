@@ -81,32 +81,34 @@ A modern, user-friendly tool for creating customizable resumes. It offers variou
 
 ### **Languages & Frameworks**
 <p align="left">
-  ![Java](https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%232F76A6.svg?style=for-the-badge&logo=javascript&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Astro](https://img.shields.io/badge/Astro-%23F9C74F.svg?style=for-the-badge&logo=astro&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2328B9B5.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Ionic](https://img.shields.io/badge/Ionic-%2331C4E5.svg?style=for-the-badge&logo=ionic&logoColor=white)
+  <img align="center" src="https://img.shields.io/badge/Astro-%23F9C74F.svg?style=for-the-badge&logo=astro&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2328B9B5.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Ionic-%2331C4E5.svg?style=for-the-badge&logo=ionic&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-%232F76A6.svg?style=for-the-badge&logo=javascript&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=white" height="30" width="120"/>
 </p>
 
 ### **Databases & Cloud**
 <p align="left">
-  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-%2300A96D.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Amazon_Web_Services-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+  <img align="center" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/MariaDB-%2300A96D.svg?style=for-the-badge&logo=mariadb&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Amazon_Web_Services-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" width="120"/>
 </p>
 
 ### **Tools**
 <p align="left">
-  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23324DFF.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/Photoshop-%23AD1B2E.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  <img align="center" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Figma-%23324DFF.svg?style=for-the-badge&logo=figma&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Photoshop-%23AD1B2E.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="30" width="120"/>
+  <img align="center" src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="30" width="120"/>
 </p>
+
 
 ---
 
