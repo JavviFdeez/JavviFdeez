@@ -53,6 +53,10 @@ I'm a **Full-Stack Developer** with a strong passion for **multiplatform applica
 
 ## Featured Projects
 
+### **🚴 [Memorial Isidro Pulido](https://www.memorialisidropulido.es/)**
+Official race of the 2026 Spain Cup. The site includes race details, registration, and countdown to the event.
+<img width="1920" height="1080" alt="memorial" src="https://github.com/user-attachments/assets/b3ad32d0-57a9-484e-97b5-6ea39aa7fcb0" />
+
 ### **🚄 [TranslyApp](https://github.com/javvi/TranslyApp)**
 A Progressive Web App (PWA) designed for comparing transport options, including trains, flights, and cruises. It provides real-time pricing, booking, and personalized user experiences. I’m working on improving the UX and adding more features to support global users.
 <img width="1920" height="1080" alt="584shots_so" src="https://github.com/user-attachments/assets/ef1bebd7-e898-4832-a525-7be27216c810" />
