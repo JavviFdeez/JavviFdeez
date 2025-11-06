@@ -51,7 +51,15 @@ June 2022 | Pozoblanco, Córdoba
 
 ## About Me
 
-I'm a **Full-Stack Developer** with a strong passion for **multiplatform applications**. I’ve recently completed my **DAM** program, and I’m actively seeking opportunities to apply my skills in real-world projects. I specialize in **Java**, **Angular**, and **Web Development**, focusing on performance, scalability, and creating seamless user experiences.+
+Hi, I'm Javier Fernández Fernández, a junior developer specialized in Multiplatform Application Development with experience in real-world company projects.
+
+I've been involved in refactoring web portals, API integration, implementing multilingual systems, and complete front-end redesigns.
+
+I'm looking to continue growing in a professional environment, taking on new technical and creative challenges.
+
+Currently, I'm seeking my first professional opportunity in the industry.
+
+I'm ready to contribute and keep growing in the field. Shall we connect?
 
 ---
 
