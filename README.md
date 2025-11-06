@@ -21,6 +21,10 @@
   <a href="mailto:javierfernandez@example.com">
     <img align="center" src="https://img.shields.io/badge/Email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
   </a>
+
+  <a href="[https://your-cv-link.com](https://www.javvi.dev/CurrIculum_Vitae_Javier_Fernandez.pdf)" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/CV-%232E8B57.svg?style=for-the-badge&logo=adobe&logoColor=white" height="30" width="100" />
+  </a>
 </p>
 
 
