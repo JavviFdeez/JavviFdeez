@@ -14,7 +14,7 @@
     <img align="center" src="https://img.shields.io/badge/Portfolio-%2300A1E4.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" width="120" />
   </a>
   
-  <a href="https://linkedin.com/in/javvifernandez/" target="blank">
+  <a href="https://linkedin.com/in/javvifernandez/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   
@@ -22,7 +22,7 @@
     <img align="center" src="https://img.shields.io/badge/Email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
   </a>
 
-  <a href="[https://your-cv-link.com](https://www.javvi.dev/CurrIculum_Vitae_Javier_Fernandez.pdf)" target="_blank">
+  <a href="https://www.javvi.dev/CurrIculum_Vitae_Javier_Fernandez.pdf" target="_blank">
     <img align="center" src="https://img.shields.io/badge/CV-%232E8B57.svg?style=for-the-badge&logo=adobe&logoColor=white" height="30" width="100" />
   </a>
 </p>
