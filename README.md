@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.javvi.dev" target="_blank">
-    <img src="https://github.com/user-attachments/assets/598532dc-8e60-4afb-829c-7250907a5d7f" width="150" style="border-radius: 50%; border: 3px solid #8A2BE2;" alt="Javier Profile">
+    <img width="1474" height="373" alt="banner" src="https://github.com/user-attachments/assets/1c743eaa-cc2a-4b47-bc9b-21a628a16de1" style="border-radius: 50%; border: 3px solid #8A2BE2;" alt="Javier Profile" />
   </a>
 
   <h1 align="center">Hi there 👋, I'm <a href="https://www.javvi.dev" target="_blank">Javier Fernández</a></h1>
