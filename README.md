@@ -10,7 +10,7 @@
   </h3>
   
   <p align="center"> 
-    <b>Multiplatform Application Development (DAM)</b> graduate ready to build high-impact solutions.
+    <b>Multiplatform (DAM)</b> & <b>Web Development (DAW)</b> graduate ready to build high-impact solutions.
     <br>
     Specialized in the <b>JavaScript Ecosystem (Angular/React)</b> and <b>Java</b>.
   </p>
@@ -22,7 +22,7 @@
     <a href="https://linkedin.com/in/javvifernandez/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:javierfernandez@example.com">
+    <a href="mailto:javifdez195@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.javvi.dev/CurrIculum_Vitae_Javier_Fernandez.pdf" target="_blank">
@@ -61,9 +61,9 @@
 
 ### 💻 Work Experience
 
-| **Company** | **Role & Description** | **Preview** |
+| **Company** | **Projects & Achievements** | **Preview** |
 | :--- | :--- | :--- |
-| <h4 align="center">COVAP<br>Digital Dev. Dept.</h4><p align="center"><i>June 2025</i></p> | **Front-end Developer (Internship)**<br>• **Portal de Carnes**: Refactored legacy code, added i18n translations, and integrated REST APIs.<br>• **Portal de Làctia**: Led migration from WordPress to a custom Angular framework. Redesigned UI/UX. | <img src="https://github.com/user-attachments/assets/ec496870-9575-45c8-a819-c2f6b063a3fb" width="250" /> |
+| <h4 align="center">COVAP<br>Digital Dept.</h4><p align="center"><i>June 2025</i></p> | 🥩 **Portal de Carnes**<br>Refactored the website with a new framework, restructured the frontend, added translations, and integrated APIs.<br><br>🥛 **Portal de Làctia**<br>Led migration from **WordPress** to Angular. Redesigned the entire frontend for a modern/responsive experience. | <img src="https://github.com/user-attachments/assets/ec496870-9575-45c8-a819-c2f6b063a3fb" width="200" /><br><br><img src="https://github.com/user-attachments/assets/b4636192-3c43-4789-8148-27851be803c5" width="200" /> |
 | <h4 align="center">INCOPE</h4><p align="center"><i>June 2022</i></p> | **IT Support Technician**<br>• IT troubleshooting, hardware maintenance, and infrastructure optimization for corporate clients. | 🛠️ |
 
 ---
@@ -123,8 +123,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavviFdeez&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavviFdeez&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavviFdeez&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavviFdeez&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
 <br>
@@ -132,7 +132,7 @@
 <div align="center">
   <h3>Let's collaborate!</h3>
   <p>I'm open to full-time Junior Developer positions.</p>
-  <a href="mailto:javierfernandez@example.com">
-    <img src="https://img.shields.io/badge/Send%20Email-javierfernandez@example.com-gray?style=flat-square&logo=gmail" />
+  <a href="mailto:javifdez195@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-javifdez195@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
