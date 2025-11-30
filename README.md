@@ -63,7 +63,7 @@
 
 | **Company** | **Projects & Achievements** | **Preview** |
 | :--- | :--- | :--- |
-| <h4 align="center">COVAP<br>Digital Dept.</h4><p align="center"><i>June 2025</i></p> | 🥩 **Portal de Carnes**<br>Refactored the website with a new framework, restructured the frontend, added translations, and integrated APIs.<br><br>🥛 **Portal de Làctia**<br>Led migration from **WordPress** to Angular. Redesigned the entire frontend for a modern/responsive experience. | <img src="https://github.com/user-attachments/assets/ec496870-9575-45c8-a819-c2f6b063a3fb" width="200" /><br><br><img src="https://github.com/user-attachments/assets/b4636192-3c43-4789-8148-27851be803c5" width="200" /> |
+| <h4 align="center">COVAP<br>Digital Dept.</h4><p align="center"><i>June 2025</i></p> | 🥩 **<a href="https://www.carnescovap.com" target="_blank">Portal de Carnes</a>**<br>Refactored the website with a new framework, restructured the frontend, added translations, and integrated APIs.<br><br>🥛 **<a href="https://lactia.cat/es/" target="_blank">Portal de Làctia</a>**<br>Led migration from **WordPress** to Angular. Redesigned the entire frontend for a modern/responsive experience. | <img src="https://github.com/user-attachments/assets/ec496870-9575-45c8-a819-c2f6b063a3fb" width="200" /><br><br><img src="https://github.com/user-attachments/assets/b4636192-3c43-4789-8148-27851be803c5" width="200" /> |
 | <h4 align="center">INCOPE</h4><p align="center"><i>June 2022</i></p> | **IT Support Technician**<br>• IT troubleshooting, hardware maintenance, and infrastructure optimization for corporate clients. | 🛠️ |
 
 ---
@@ -95,7 +95,7 @@
          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
-      <a href="https://github.com/javvi/TranslyApp">📂 View Code</a>
+      <a href="https://github.com/JavviFdeez/TranslyApp">📂 View Code</a>
     </td>
     <td width="40%">
       <img src="https://github.com/user-attachments/assets/ef1bebd7-e898-4832-a525-7be27216c810" width="100%" />
@@ -110,7 +110,7 @@
         <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <a href="https://github.com/javvi/CV-Generator">📂 View Code</a>
+      <a href="https://github.com/JavviFdeez/CV-Generator">📂 View Code</a>
     </td>
     <td width="40%">
       <img src="https://github.com/user-attachments/assets/3f8e428d-b5de-47c8-ac3d-a927ce2071b7" width="100%" />
