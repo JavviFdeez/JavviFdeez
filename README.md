@@ -1,140 +1,138 @@
 <div align="center">
-  <h1>Hi 👋, I'm <a href="https://porfolio-javvi.vercel.app/" target="_blank">Javier Fernández Fernández</a></h1>
-  <h3>I'm a Junior Developer specialized in Multiplatform Application Development. I’ve recently completed the DAM program and am looking for my first job as a developer.</h3>
+  <a href="https://www.javvi.dev" target="_blank">
+    <img src="https://github.com/user-attachments/assets/598532dc-8e60-4afb-829c-7250907a5d7f" width="150" style="border-radius: 50%; border: 3px solid #8A2BE2;" alt="Javier Profile">
+  </a>
+
+  <h1 align="center">Hi there 👋, I'm <a href="https://www.javvi.dev" target="_blank">Javier Fernández</a></h1>
+  
+  <h3 align="center">
+    <code>&lt; Junior Full Stack Developer /&gt;</code>
+  </h3>
+  
+  <p align="center"> 
+    <b>Multiplatform Application Development (DAM)</b> graduate ready to build high-impact solutions.
+    <br>
+    Specialized in the <b>JavaScript Ecosystem (Angular/React)</b> and <b>Java</b>.
+  </p>
+
+  <p align="center">
+    <a href="https://www.javvi.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/javvifernandez/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:javierfernandez@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.javvi.dev/CurrIculum_Vitae_Javier_Fernandez.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/CV-Download-2E8B57?style=for-the-badge&logo=adobe&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<a href="https://www.javvi.dev" target="_blank"> <img width="1920" height="1440" alt="Porfolio de Javier Fernández Fernández - Desarrollador y Programador Junior" src="https://github.com/user-attachments/assets/598532dc-8e60-4afb-829c-7250907a5d7f" /></a>
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
 ---
 
-## Connect with Me
+### 💻 Work Experience
 
-<p align="left">
-  <a href="https://porfolio-javvi.vercel.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-%2300A1E4.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" width="120" />
-  </a>
-  
-  <a href="https://linkedin.com/in/javvifernandez/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  
+| **Company** | **Role & Description** | **Preview** |
+| :--- | :--- | :--- |
+| <h4 align="center">COVAP<br>Digital Dev. Dept.</h4><p align="center"><i>June 2025</i></p> | **Front-end Developer (Internship)**<br>• **Portal de Carnes**: Refactored legacy code, added i18n translations, and integrated REST APIs.<br>• **Portal de Làctia**: Led migration from WordPress to a custom Angular framework. Redesigned UI/UX. | <img src="https://github.com/user-attachments/assets/ec496870-9575-45c8-a819-c2f6b063a3fb" width="250" /> |
+| <h4 align="center">INCOPE</h4><p align="center"><i>June 2022</i></p> | **IT Support Technician**<br>• IT troubleshooting, hardware maintenance, and infrastructure optimization for corporate clients. | 🛠️ |
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🚴 Memorial Isidro Pulido</h3>
+      <p>Official website for the 2026 Spain Cup race. Includes registration system, dynamic routing, and event countdown.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/SEO-Optimized-success?style=flat-square" />
+      </p>
+      <a href="https://www.memorialisidropulido.es/">🌐 Visit Website</a>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/user-attachments/assets/b3ad32d0-57a9-484e-97b5-6ea39aa7fcb0" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="60%">
+      <h3>🚄 Transly App</h3>
+      <p>Progressive Web App (PWA) for comparing transport options (trains, flights). Real-time pricing and personalized user flow.</p>
+      <p>
+         <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <a href="https://github.com/javvi/TranslyApp">📂 View Code</a>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/user-attachments/assets/ef1bebd7-e898-4832-a525-7be27216c810" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="60%">
+      <h3>🗒️ CV Generator</h3>
+      <p>Desktop application to design, preview, and export resumes to PDF/Word. Built with a focus on intuitive UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <a href="https://github.com/javvi/CV-Generator">📂 View Code</a>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/user-attachments/assets/3f8e428d-b5de-47c8-ac3d-a927ce2071b7" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavviFdeez&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavviFdeez&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Let's collaborate!</h3>
+  <p>I'm open to full-time Junior Developer positions.</p>
   <a href="mailto:javierfernandez@example.com">
-    <img align="center" src="https://img.shields.io/badge/Email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
+    <img src="https://img.shields.io/badge/Send%20Email-javierfernandez@example.com-gray?style=flat-square&logo=gmail" />
   </a>
-
-  <a href="https://www.javvi.dev/CurrIculum_Vitae_Javier_Fernandez.pdf" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/CV-%232E8B57.svg?style=for-the-badge&logo=adobe&logoColor=white" height="30" width="100" />
-  </a>
-</p>
-
-
----
-
-## Work Experience
-
-#### **COVAP - Digital Development Department**  
-*Prácticas CFGS - Desarrollo de Aplicaciones Multiplataforma*  
-June 2025 | Pozoblanco, Córdoba  
-- **Portal de Carnes**: Refactored the website with a new framework, restructured the frontend, added translations, and integrated APIs for improved functionality.
-<img width="1920" height="1080" alt="450shots_so" src="https://github.com/user-attachments/assets/ec496870-9575-45c8-a819-c2f6b063a3fb" />
-
-- **Portal de Làctia**: Led the migration from **WordPress** to the new framework, implemented the multilingual version, and redesigned the entire frontend for a modern and responsive user experience.
-<img width="1920" height="1080" alt="45shots_so" src="https://github.com/user-attachments/assets/b4636192-3c43-4789-8148-27851be803c5" />
-
-
-#### **INCOPE**  
-*Prácticas CFGM - Sistemas Microinformáticos y Redes*  
-June 2022 | Pozoblanco, Córdoba   
-- Assisted with IT troubleshooting and infrastructure optimization.
-
----
-
-## About Me
-
-Hi, I'm Javier Fernández Fernández, a junior developer specialized in Multiplatform Application Development with experience in real-world company projects.
-
-I've been involved in refactoring web portals, API integration, implementing multilingual systems, and complete front-end redesigns.
-
-I'm looking to continue growing in a professional environment, taking on new technical and creative challenges.
-
-Currently, I'm seeking my first professional opportunity in the industry.
-
-I'm ready to contribute and keep growing in the field. Shall we connect?
-
----
-
-## Featured Projects
-
-### **🚴 [Memorial Isidro Pulido](https://www.memorialisidropulido.es/)**
-Official race of the 2026 Spain Cup. The site includes race details, registration, and countdown to the event.
-<img width="1920" height="1080" alt="memorial" src="https://github.com/user-attachments/assets/b3ad32d0-57a9-484e-97b5-6ea39aa7fcb0" />
-
-### **🚄 [TranslyApp](https://github.com/javvi/TranslyApp)**
-A Progressive Web App (PWA) designed for comparing transport options, including trains, flights, and cruises. It provides real-time pricing, booking, and personalized user experiences. I’m working on improving the UX and adding more features to support global users.
-<img width="1920" height="1080" alt="584shots_so" src="https://github.com/user-attachments/assets/ef1bebd7-e898-4832-a525-7be27216c810" />
-
-### **🗒️ [CV Generator](https://github.com/javvi/CV-Generator)**
-A modern, user-friendly tool for creating customizable resumes. It offers various templates, export options (PDF, Word, etc.), and an intuitive interface. I plan to integrate AI-driven features for personalized recommendations.
-<img width="1920" height="1080" alt="973shots_so" src="https://github.com/user-attachments/assets/3f8e428d-b5de-47c8-ac3d-a927ce2071b7" />
-
----
-
-## GitHub Analytics
-
-### 📈 My GitHub Stats
-
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavviFdeez&show_icons=true&theme=radical)
-
-### 🌍 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavviFdeez&layout=compact&theme=radical)
-
-### 🏆GitHub Trophy
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JavviFdeez&theme=onedark&no-frame=true&title=Commits,PullRequest,Repositories)
-
----
-
-## Technologies & Tools
-
-### **Languages & Frameworks**
-<p align="left">
-  <img align="center" src="https://img.shields.io/badge/Ionic-%2331C4E5.svg?style=for-the-badge&logo=ionic&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-%232F76A6.svg?style=for-the-badge&logo=javascript&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2328B9B5.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Astro-%23F9C74F.svg?style=for-the-badge&logo=astro&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=white" height="30" width="120"/>
-</p>
-
-### **Databases & Cloud**
-<p align="left">
-  <img align="center" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/MariaDB-%2300A96D.svg?style=for-the-badge&logo=mariadb&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Amazon_Web_Services-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" width="120"/>
-</p>
-
-### **Tools**
-<p align="left">
-  <img align="center" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Figma-%23324DFF.svg?style=for-the-badge&logo=figma&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Photoshop-%23AD1B2E.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="30" width="120"/>
-  <img align="center" src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="30" width="120"/>
-</p>
-
-
----
-
-## Let’s Work Together
-
-I'm open to new collaborations, or full-time positions in the **Development** domains. If you’d like to discuss how we can collaborate, feel free to reach out via **LinkedIn** or email.
-
----
-
-Thanks for stopping by! 😊
+</div>
