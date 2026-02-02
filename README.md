@@ -57,7 +57,7 @@
       <a href="https://www.memorialisidropulido.es/">🌐 Visit Website</a>
     </td>
     <td width="40%">
-      <img src="https://github.com/user-attachments/assets/b3ad32d0-57a9-484e-97b5-6ea39aa7fcb0" width="100%" />
+      <img src="https://www.memorialisidropulido.es/og-image.jpg" width="100%" />
     </td>
   </tr>
 </table>
