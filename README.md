@@ -60,36 +60,6 @@
       <img src="https://github.com/user-attachments/assets/b3ad32d0-57a9-484e-97b5-6ea39aa7fcb0" width="100%" />
     </td>
   </tr>
-  <tr>
-    <td width="60%">
-      <h3>🚄 Transly App</h3>
-      <p>Progressive Web App (PWA) for comparing transport options (trains, flights). Real-time pricing and personalized user flow.</p>
-      <p>
-         <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-      <a href="https://github.com/JavviFdeez/TranslyApp">📂 View Code</a>
-    </td>
-    <td width="40%">
-      <img src="https://github.com/user-attachments/assets/ef1bebd7-e898-4832-a525-7be27216c810" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="60%">
-      <h3>🗒️ CV Generator</h3>
-      <p>Desktop application to design, preview, and export resumes to PDF/Word. Built with a focus on intuitive UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <a href="https://github.com/JavviFdeez/CV-Generator">📂 View Code</a>
-    </td>
-    <td width="40%">
-      <img src="https://github.com/user-attachments/assets/3f8e428d-b5de-47c8-ac3d-a927ce2071b7" width="100%" />
-    </td>
-  </tr>
 </table>
 
 ---
